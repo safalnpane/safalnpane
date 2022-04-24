@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @safalnpane
+- 👋 Hi, I’m Safal
 - 👀 I’m interested in creating web apps.
 - 🌱 I’m currently learning React and AWS
 
