@@ -1,6 +1,6 @@
 ### Hey Guys, I am Safal👋
 
-<img align="right" width="400" src="https://giphy.com/embed/M9kgjEsLG6LMbYC9dl">
+<iframe src="https://giphy.com/embed/M9kgjEsLG6LMbYC9dl" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/M9kgjEsLG6LMbYC9dl">via GIPHY</a></p>
 
 ### An Android Developer, CSIT Student and <br> [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/en-US/profile/69781)
 
