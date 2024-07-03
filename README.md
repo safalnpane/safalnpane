@@ -3,7 +3,6 @@
 ### A web developer and security enthusiast
 
 - 🌱 I’m currently learning **Golang**
-- 📝 I write blogs on **[Safal's Blog](https://safalneupane.com)**  
 
 ### Github Stats
 
